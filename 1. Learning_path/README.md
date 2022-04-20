@@ -1,5 +1,4 @@
-This repository is currently being filled. 
-Now there are 2 mini projects on market analysis (phone cases, car carpets) made for a friend trading on ozon.ru
+Several projects completed during the training in Karpov.Courses have been uploaded to the repository
 
 For high quality and fast notebook rendering I use a [Nbviewer](https://nbviewer.jupyter.org/).
 
