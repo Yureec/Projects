@@ -3,6 +3,11 @@ Now there are 2 mini projects on market analysis (phone cases, car carpets) made
 
 For high quality and fast notebook rendering I use a [Nbviewer](https://nbviewer.jupyter.org/).
 
+---
+Данный репозиторий сейчас в процессе наполнения. 
+Пока здесь 2 минипроекта по анализу рынка на маркетплейсе ozon.ru (чехлы для телефонов, автомобильные коврики), сделанные для друга, занимающегося там интернет-торговлей (для расширения ассортимента, просмотра тенденций и трендов)
+Для качественного и быстрого рендеринга jupyter файлов я использую [Nbviewer](https://nbviewer.jupyter.org/).
+
 <a href="https://nbviewer.org/github/Yureec/Projects/blob/main/Phones.ipynb" 
    target="_blank">
    <img align="left" 
