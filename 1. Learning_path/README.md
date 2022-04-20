@@ -7,7 +7,7 @@ For high quality and fast notebook rendering I use a [Nbviewer](https://nbviewer
 
 Для качественного и быстрого рендеринга jupyter файлов я использую [Nbviewer](https://nbviewer.jupyter.org/).
 
-<a href="https://nbviewer.org/github/Yureec/Projects/blob/main/1.%20Learning_path/0.%20Miniproject%20%28edtech%29.ipynb" 
+<a href="https://nbviewer.org/github/Yureec/Projects/blob/main/1.%20Learning_path/0.%20Data_analysis_project_edtech.ipynb" 
    target="_blank">
    <img align="left" 
       src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
